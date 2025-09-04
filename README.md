@@ -29,5 +29,7 @@ Since the model is trained on English, it may sometimes misinterpret tricky case
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sairaj4code/Youtube-Comment-Section-Analyzer-
+.git
+cd Youtube-Comment-Section-Analyzer-
+
